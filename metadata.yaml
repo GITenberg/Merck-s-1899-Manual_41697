@@ -1,0 +1,29 @@
+_repo: Merck-s-1899-Manual_41697
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41697-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Merck & Co.
+    alias: Merck and Co.
+    gutenberg_agent_id: '41305'
+    url: http://www.gutenberg.org/2009/agents/41305
+description: ''
+gutenberg_issued: '2012-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41697'
+  lccn: '2006570376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Therapeutics -- Handbooks, manuals, etc.'
+- !lcsh 'Pharmacology -- Handbooks, manuals, etc.'
+- !lcsh 'Materia medica -- Handbooks, manuals, etc.'
+- !lcsh 'Drugs -- Handbooks, manuals, etc.'
+- !lcc 'RC'
+title: Merck's 1899 Manual of the Materia Medica
+url: http://www.gutenberg.org/ebooks/41697
